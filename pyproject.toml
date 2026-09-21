@@ -29,17 +29,19 @@ dev = ["pytest>=8", "ruff>=0.12", "build>=1"]
 reference = ["torch>=2.14,<3", "transformers>=5.17,<6", "safetensors>=0.6"]
 benchmark = ["matplotlib>=3.10", "pyarrow>=18"]
 demo = ["rich>=15,<16", "Pillow>=12,<13"]
+trex = ["pygame-ce>=2.5.8,<3", "httpx>=0.28,<1", "imageio-ffmpeg>=0.6,<1"]
 
 [project.scripts]
 laya-mlx = "laya_mlx.cli:main"
 laya-snake = "laya_mlx.snake.cli:main"
+laya-trex = "laya_mlx.trex.cli:main"
 
 [project.urls]
-Repository = "https://github.com/mizorewww/laya-mlx"
+Repository = "https://github.com/virajbhartiya/laya-vs-jev"
 Upstream = "https://github.com/NandhaKishorM/laya"
-Documentation = "https://github.com/mizorewww/laya-mlx#readme"
-Issues = "https://github.com/mizorewww/laya-mlx/issues"
-Benchmarks = "https://github.com/mizorewww/laya-mlx/blob/main/BENCHMARKS.md"
+Documentation = "https://github.com/virajbhartiya/laya-vs-jev#readme"
+Issues = "https://github.com/virajbhartiya/laya-vs-jev/issues"
+Benchmarks = "https://github.com/virajbhartiya/laya-vs-jev/blob/main/BENCHMARKS.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["laya_mlx"]
